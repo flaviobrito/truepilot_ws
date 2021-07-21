@@ -1,8 +1,7 @@
 # Web Scraping - Truepilot 
 
-Get all comments from Truepilot users about a specific website and export to a csv file.
-
+Get all comments from Truepilot users about a specific website and export them to a CSV file.
 ## Config
 
-Edit the website domain avaliable in Truepilot opening <code>config/settings.json</code>
+Edit  <code>config/settings.json</code> and replace the website domain (available on Truepilot)  
 
